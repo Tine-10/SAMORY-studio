@@ -23,7 +23,7 @@ export const ProcessSection: React.FC<ProcessSectionProps> = ({ onStartProcess }
     },
     {
       number: '03',
-      title: 'Chạm NFC/QR — Sống lại từng khoảnh khắc',
+      title: 'Chạm NFC/QR - Sống lại từng khoảnh khắc',
       desc: 'Nhận hộp quà hoàn thiện tận tay. Chỉ cần áp nhẹ điện thoại vào biểu tượng chạm trên sổ, toàn bộ video, giai điệu và ảnh số sẽ lập tức bừng sáng.',
       icon: Smartphone,
       highlights: ['Chạm 1 chạm tức thì không cần cài app', 'Tương thích cả iPhone & Android', 'Bảo hành chip NFC & dữ liệu trọn đời'],
