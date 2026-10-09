@@ -1,6 +1,8 @@
 {
-  "name": "MNEMOS STUDIO — Scrapbook & Phygital Memory",
+  "name": "SAMORY STUDIO — Scrapbook & Phygital Memory",
   "description": "Thương hiệu quà tặng scrapbook cá nhân hóa kết hợp công nghệ chạm thông minh NFC và QR để lưu giữ ký ức vật lý và kết nối không gian số.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
